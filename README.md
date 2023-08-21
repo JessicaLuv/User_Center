@@ -57,7 +57,7 @@ npm start
 
 后端：
 ```bash
-[运行后端的命令，如 `node server.js` 或 `python manage.py runserver`]
+runserver
 ```
 
 ## 参考
